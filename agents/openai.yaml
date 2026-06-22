@@ -1,0 +1,4 @@
+interface:
+  display_name: "OpenClaw Image Compress"
+  short_description: "Compress images under 2MB or a custom size"
+  default_prompt: "Use $openclaw-image-compress to compress this image under 2MB, or to a custom target size if I specify one."
